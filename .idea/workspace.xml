@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee333f2-a5dd-44cc-87b4-9d0d4b86c921" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +74,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="438" y="225" width="404" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1582994743891" />
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1582994241443">
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1582995873604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1582994241443" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1582995873604" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1582991342136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
