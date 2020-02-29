@@ -35,6 +35,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,6 +65,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="120" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582994742309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="120" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1582994742309" />
+    <state x="438" y="225" width="404" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582994743891">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="225" width="404" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1582994743891" />
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1582994241443">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
